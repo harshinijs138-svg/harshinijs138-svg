@@ -29,15 +29,39 @@
 
 ### AI Portfolio Assistant
 
-AI-powered portfolio assistant using OpenAI APIs.
+Developed an AI-powered portfolio assistant using OpenAI APIs to provide personalized project insights, portfolio guidance, and interactive user experiences.
+
+**Tech Stack:** React.js, Python, OpenAI API, Streamlit
+
+### Kalvium Portfolio Website
+
+Designed and developed a responsive portfolio website showcasing academic projects, technical skills, certifications, and achievements with a modern UI/UX.
+
+**Tech Stack:** HTML, CSS, JavaScript, Responsive Design
 
 ### CountryPeek
 
-Modern React application to explore countries worldwide.
+Built a modern React application for exploring countries worldwide with real-time search, region filtering, dark mode, and responsive design.
 
-### Personal Portfolio
+**Tech Stack:** React.js, Vite, REST Countries API
 
-Professional developer portfolio showcasing projects and skills.
+### Personal Developer Portfolio
+
+Created a professional portfolio website featuring projects, skills, certifications, GitHub repositories, and contact information.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+### DSA Practice Repository
+
+Maintaining a collection of Data Structures and Algorithms solutions to strengthen problem-solving skills and coding interview preparation.
+
+**Tech Stack:** Java, Python
+
+### AI Resume Analyzer (In Progress)
+
+Developing an AI-powered application that analyzes resumes, identifies improvement areas, and provides ATS-friendly recommendations.
+
+**Tech Stack:** Python, Streamlit, OpenAI API
 
 ## Certifications
 
