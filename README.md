@@ -1,82 +1,108 @@
 # Hi, I'm Harshini J 👋
 
-### Computer Science Engineering (Applied AI) Student
+## 🚀 Applied AI Student | AI Developer | Software Engineer
 
-💻 Passionate about Software Development, AI, and Frontend Development
+I'm a B.Tech Computer Science Engineering (Applied AI) student at St. Joseph's University (Kalvium), passionate about building AI-powered applications that solve real-world problems using Artificial Intelligence, Computer Vision, NLP, and modern web technologies.
 
 📍 Chennai, India
 
-## About Me
+---
 
-* 🎓 B.Tech CSE (Applied AI) at St. Joseph's University (Kalvium)
-* 🚀 Building AI-powered web applications
-* 🌱 Learning React.js, Generative AI, Agentic AI, and DSA
-* 💡 Interested in Software Engineering and AI Innovation
+## 👩‍💻 About Me
 
-## Tech Stack
+- 🎓 B.Tech CSE (Applied AI) | St. Joseph's University × Kalvium
+- 🤖 Building AI-powered applications with real-world impact
+- 🌱 Currently exploring Machine Learning, Generative AI, Agentic AI & System Design
+- 💡 Passionate about AI, Full-Stack Development, and Problem Solving
+- 🚀 Always Learning • Always Building • Always Improving
 
-* Python
-* Java
-* JavaScript
-* React.js
-* HTML5
-* CSS3
-* Streamlit
-* OpenAI API
-* Git & GitHub
+---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### AI Portfolio Assistant
+### 💻 Languages
+- Python
+- Java
+- JavaScript
+- C
+- C++
 
-Developed an AI-powered portfolio assistant using OpenAI APIs to provide personalized project insights, portfolio guidance, and interactive user experiences.
+### 🌐 Frontend
+- React.js
+- HTML5
+- CSS3
+- Vite
 
-**Tech Stack:** React.js, Python, OpenAI API, Streamlit
+### 🤖 AI & Machine Learning
+- Streamlit
+- TensorFlow
+- OpenCV
+- OCR (Tesseract)
+- NLP
+- Generative AI
+- Prompt Engineering
 
-### Kalvium Portfolio Website
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
+- Figma
 
-Designed and developed a responsive portfolio website showcasing academic projects, technical skills, certifications, and achievements with a modern UI/UX.
+---
 
-**Tech Stack:** HTML, CSS, JavaScript, Responsive Design
+## 🚀 Featured Projects
 
-### CountryPeek
+### 🥇 ResumeXtract AI Pro
+AI-powered Resume Parser with ATS Analysis, OCR, Skill Analysis, and Downloadable Reports.
 
-Built a modern React application for exploring countries worldwide with real-time search, region filtering, dark mode, and responsive design.
+### 🥈 VisionGuard AI Pro
+Computer Vision application for AI-powered image classification with an interactive Streamlit interface.
 
-**Tech Stack:** React.js, Vite, REST Countries API
+### 🥉 NexaTranslate AI Pro
+AI-powered multilingual translator supporting text, voice, OCR, and document translation.
 
-### Personal Developer Portfolio
+### 🌍 CountryPeek
+Responsive React application with country search, region filters, and dark mode.
 
-Created a professional portfolio website featuring projects, skills, certifications, GitHub repositories, and contact information.
+### 🤖 AI Portfolio Assistant
+Interactive AI-powered portfolio assistant built with React and AI APIs.
 
-**Tech Stack:** HTML, CSS, JavaScript
+### 🌐 Personal Portfolio Website
+Modern portfolio showcasing projects, skills, certifications, and achievements.
 
-### DSA Practice Repository
+---
 
-Maintaining a collection of Data Structures and Algorithms solutions to strengthen problem-solving skills and coding interview preparation.
+## 🏆 Achievements
 
-**Tech Stack:** Java, Python
+- 🥇 LeetChallenge Champion
+- 💻 Solved 200+ DSA Problems
+- 🤖 Generative AI Specialist
+- 🚀 Agentic AI Specialist
+- 💼 Frontend Development Internship
 
-### AI Resume Analyzer (In Progress)
+---
 
-Developing an AI-powered application that analyzes resumes, identifies improvement areas, and provides ATS-friendly recommendations.
+## 📚 Currently Learning
 
-**Tech Stack:** Python, Streamlit, OpenAI API
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Agentic AI
+- System Design
+- Data Structures & Algorithms
 
-## Certifications
+---
 
-* Generative AI Specialist
-* Agentic AI Specialist
-* LeetChallenge Champion
+## 📫 Connect With Me
 
-## Connect With Me
+📧 **Email:** harshini.j24@gmail.com
 
-📧 [harshini.j24@gmail.com](mailto:harshini.j24@gmail.com)
+💼 **LinkedIn:** https://linkedin.com/in/harshini-j24
 
-🔗 LinkedIn: linkedin.com/in/harshini-j24
+🌐 **Portfolio:** https://harshini-j-portfolio.netlify.app/
 
-🌐 Portfolio: https://harshini-j-portfolio.netlify.app/
+🐙 **GitHub:** https://github.com/harshinijs138-svg
 
-🐙 GitHub: https://github.com/harshinijs138-svg
+---
 
-⭐ Always Learning • Always Building • Always Growing
+⭐ **"Building AI solutions that solve real-world problems, one project at a time."**
